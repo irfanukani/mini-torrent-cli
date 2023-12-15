@@ -1,6 +1,8 @@
 ## Mini Torrent Project
 
 ### HOW TO RUN?
+0. Build the executables using makefiles in both the folders.
+   
 1. Go to Tracker Folder and run the following commands: 
 
 ```sh
